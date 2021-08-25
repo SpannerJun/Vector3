@@ -1,5 +1,16 @@
 # coding: utf-8
 
+Information = {
+    'version': '1.0.1',
+    'name': 'Vector3',
+    'description': 'Can compute Vector3 in XRmaker',
+    'author': [
+        'Spanner_Jun'
+    ],
+    'link': 'https://github.com/SpannerJun/Vector3'
+}
+
+
 # 向量加法
 def vand(v0, v1):
     v0[0] += v1[0]
